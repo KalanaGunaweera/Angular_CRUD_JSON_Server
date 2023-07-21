@@ -34,7 +34,15 @@
     }
   ],
   "comments": [],
-  "signupUsers":[],
+  "signupUsers": [
+    {
+      "fullName": "Kalana Sudesh Gunaweera",
+      "mobile": 719872155,
+      "email": "kalanasudesh94@gmail.com",
+      "password": "kalana",
+      "id": 1
+    }
+  ],
   "profile": {
     "name": "typicode"
   }

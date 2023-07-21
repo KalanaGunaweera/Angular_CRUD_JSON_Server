@@ -55,6 +55,20 @@
       "email": "kalanagunaweera94@gmail.com",
       "password": "kalana",
       "id": 3
+    },
+    {
+      "fullName": "",
+      "mobile": "",
+      "email": "",
+      "password": "",
+      "id": 4
+    },
+    {
+      "fullName": "test",
+      "mobile": 1111111111,
+      "email": "test@gmail.com",
+      "password": "test",
+      "id": 5
     }
   ],
   "profile": {

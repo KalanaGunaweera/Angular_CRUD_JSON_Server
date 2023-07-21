@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "firstName": "sudesh",
+      "lastName": "saman",
+      "email": "kalana@gmail.com",
+      "mobile": "1324542769",
+      "salary": "6700"
+    },
+    {
+      "id": 3,
+      "firstName": "test",
+      "lastName": "nihal",
+      "email": "test@gmail.com",
+      "mobile": "8797875654",
+      "salary": "450000"
+    },
+    {
+      "id": 4,
+      "firstName": "saman",
+      "lastName": "nishantha",
+      "email": "mishanta@gmail.com",
+      "mobile": "987655443",
+      "salary": "67000"
+    },
+    {
+      "id": 5,
+      "firstName": "sudesh",
+      "lastName": "nimal",
+      "email": "kalana@gmail.com",
+      "mobile": "1324542769",
+      "salary": "6700"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

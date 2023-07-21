@@ -1,0 +1,20 @@
+.card{
+    margin-top: 10px;
+    border: none;
+    width: 500px;
+    padding:40px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background: rgb(95, 180, 145);
+    background: linear-gradient(90deg,rgb(69, 143, 97) 0%,rgb(88, 107, 161) 100%);
+}
+.card h1,
+h6{
+    color: #fff;
+}
+.form-label {
+    color: #fff;
+}
+ 

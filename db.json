@@ -41,6 +41,20 @@
       "email": "kalanasudesh94@gmail.com",
       "password": "kalana",
       "id": 1
+    },
+    {
+      "fullName": "",
+      "mobile": "",
+      "email": "",
+      "password": "",
+      "id": 2
+    },
+    {
+      "fullName": "Kalana Gunaweera",
+      "mobile": 719872155,
+      "email": "kalanagunaweera94@gmail.com",
+      "password": "kalana",
+      "id": 3
     }
   ],
   "profile": {
